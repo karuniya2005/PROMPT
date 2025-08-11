@@ -233,10 +233,6 @@ Future systems aim to learn incrementally without forgetting previously acquired
 ### 6.3 Interdisciplinary Integration
 Models are being tailored for medicine, law, finance, and education, combining domain expertise with generative capabilities.
 
-# 7. Growth Over the Years
-The field has seen exponential growth, from small RNNs and VAEs to multi-billion parameter LLMs like GPT-4 and Gemini. Each advancement increases generative capabilities while simultaneously raising new challenges in ethics, safety, and efficiency.
-![Screenshot 2025-05-14 113927](https://github.com/user-attachments/assets/cef82723-e235-4731-a33d-083fc2e836e3)
-
 
 # Conclusion
 Generative AI and LLMs represent a paradigm shift in artificial intelligence, enabling machines to create rather than just analyze. With powerful architectures like transformers, these systems now touch every sector—from creative arts to scientific research. As we continue to scale and refine these models, balancing innovation with ethical responsibility remains crucial for realizing their full potential in a trustworthy manner.
